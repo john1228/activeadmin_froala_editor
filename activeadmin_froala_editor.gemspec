@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.description   = 'An Active Admin plugin to use Froala WYSIWYG editor'
   spec.license       = 'MIT'
   spec.authors       = ['Mattia Roccoberton']
-  spec.email         = 'mat@blocknot.es'
+  spec.email         = '13916518973@163.com'
   spec.homepage      = 'https://github.com/blocknotes/activeadmin_froala_editor'
 
   spec.files         = `git ls-files -z`.split("\x0")
